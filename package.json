@@ -1,0 +1,8 @@
+{
+  "name": "debug-tunnel",
+  "version": "1.4.2",
+  "description": "Enables you to debug your Node process on demand",
+  "main": "index.js",
+  "author": "Kenneth Auchenberg",
+  "license": "MIT"
+}

@@ -4,5 +4,8 @@
   "description": "Enables you to debug your Node process on demand",
   "main": "index.js",
   "author": "Kenneth Auchenberg",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^2.3.1"
+  }
 }
